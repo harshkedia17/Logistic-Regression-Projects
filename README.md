@@ -1,6 +1,6 @@
 # Logistic Regression Project
 -----------------------------------------------------------------------------
-## This folder contains project made using Linear Regression which includes :
+## This folder contains project made using Logistic Regression which includes :
 * Titanic Survivor Prediction
   * For this project we will be working with the [Titanic Data Set from Kaggle](https://www.kaggle.com/c/titanic). 
 We'll be trying to predict a classification- survival or deceased.
